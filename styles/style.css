@@ -21,13 +21,13 @@ body {
     background-position: center center;
 }
 .shop-item01 {
-    background-image: url(/images/item01.png);
+    background-image: url(../images/item01.png);
 }
 .shop-item02 {
-    background-image: url(/images/item02.png);
+    background-image: url(../images/item02.png);
 }
 .shop-item03 {
-    background-image: url(/images/item03.png);
+    background-image: url(../images/item03.png);
 }
 .sale {
     font-family: 'Rubik', sans-serif;
